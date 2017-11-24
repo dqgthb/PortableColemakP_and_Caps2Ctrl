@@ -1,0 +1,1 @@
+Just drag ahk file to the autohotkey icon
